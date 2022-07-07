@@ -1,0 +1,180 @@
+header {
+    position: relative;
+    width: 1924.5px;
+    height: 122.46px;
+}
+
+.nav-container {
+    position: absolute;
+    width: 1924.5px;
+    height: 107.82px;
+    left: 0px;
+    top: 0px;
+    background: #ED7200;
+    box-shadow: 0px 4px 35px rgba(162, 58, 0, 0.75);
+    border-radius: 0% 0% 30% 30%;
+}
+
+img {
+    position: absolute;
+    width: 229px;
+    height: 91px;
+    left: 201px;
+    top: 1px;
+    background: url(Little & Little Logo (ngang));
+}
+
+.group-2 {
+    
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 80px;
+    position: absolute;
+    width: 541px;
+    height: 42px;
+    left: 703px;
+    top: 19px;
+    list-style-type: none;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    gap: 10px;
+    width: 119px;
+    height: 22px;
+    opacity: 0.8;
+    border-radius: 33px;
+    text-align: center;
+}
+
+li a {
+    width: 96px;
+    height: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    /* identical to box height */
+    /* W */
+
+    color: #FFFFFF;
+    /* Inside auto layout */
+
+    flex: none;
+    flex-grow: 0;
+}
+
+li:hover{
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    gap: 10px;
+
+    width: 144px;
+    height: 42px;
+
+    /* W */
+
+    border: 2px solid #FFFFFF;
+    border-radius: 33px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    
+    flex-grow: 0;
+}
+
+.frame-22 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 0px 24px;
+    position: absolute;
+    width: 137px;
+    height: 32px;
+    left: 1456px;
+    top: 34px;
+}
+
+.group-22-1 {
+    position: absolute;
+    left: 0%;
+    right: 76.64%;
+    top: 0%;
+    bottom: 0%;
+    width: 32px;
+    height: 32px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 10px;
+}
+
+.frame-21 {
+    width: 32px;
+    height: 32px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    position: absolute;
+    left: 0%;
+    right: 76.64%;
+    top: 0%;
+    bottom: 0%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    /* W */
+
+    border: 1px solid #FFFFFF;
+    border-radius: 16px;
+}
+
+.telephone {
+    width: 97px;
+    height: 20px;
+    /* Montserrat / 16 bold */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    /* W */
+
+    color: #FFFFFF;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+body
+{
+}
