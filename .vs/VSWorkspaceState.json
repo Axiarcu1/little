@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\Models",
     "\\database",
-    "\\database\\factories",
     "\\database\\migrations",
-    "\\database\\seeders"
+    "\\database\\seeders",
+    "\\public",
+    "\\public\\images",
+    "\\resources",
+    "\\resources\\css",
+    "\\resources\\views",
+    "\\routes"
   ],
-  "SelectedNode": "\\database\\migrations\\2022_06_30_074605_create_payment_infos_table.php",
+  "SelectedNode": "\\public\\StyleSheet1.css",
   "PreviewInSolutionExplorer": false
 }
