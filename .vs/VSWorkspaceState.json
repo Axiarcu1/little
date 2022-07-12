@@ -7,10 +7,9 @@
     "\\public",
     "\\public\\images",
     "\\resources",
-    "\\resources\\css",
     "\\resources\\views",
     "\\routes"
   ],
-  "SelectedNode": "\\public\\StyleSheet1.css",
+  "SelectedNode": "\\routes\\web.php",
   "PreviewInSolutionExplorer": false
 }
