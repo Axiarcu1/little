@@ -1,0 +1,732 @@
+header {
+    position: relative;
+    width: 1924.5px;
+    height: 122.46px;
+}
+
+.nav-container {
+    position: absolute;
+    width: 1924.5px;
+    height: 107.82px;
+    left: 0px;
+    top: 0px;
+    background: #ED7200;
+    box-shadow: 0px 4px 35px rgba(162, 58, 0, 0.75);
+    border-radius: 0% 0% 30% 30%;
+    z-index: 1;
+}
+
+.logo {
+    position: absolute;
+    width: 229px;
+    height: 91px;
+    left: 201px;
+    top: 1px;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 80px;
+    position: absolute;
+    width: 541px;
+    height: 42px;
+    left: 703px;
+    top: 19px;
+    list-style-type: none;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    gap: 10px;
+    width: 119px;
+    height: 22px;
+    opacity: 0.8;
+    border-radius: 33px;
+    text-align: center;
+}
+
+li a {
+    width: 96px;
+    height: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    /* identical to box height */
+    /* W */
+
+    color: #FFFFFF;
+    /* Inside auto layout */
+
+    flex: none;
+    flex-grow: 0;
+}
+
+li:hover{
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    gap: 10px;
+
+    width: 144px;
+    height: 42px;
+
+    /* W */
+
+    border: 2px solid #FFFFFF;
+    border-radius: 33px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    
+    flex-grow: 0;
+}
+
+.nav-contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 0px 24px;
+    position: absolute;
+    width: 137px;
+    height: 32px;
+    left: 1456px;
+    top: 34px;
+}
+
+.nav-img {
+    position: absolute;
+    left: 0%;
+    right: 76.64%;
+    top: 0%;
+    bottom: 0%;
+    width: 32px;
+    height: 32px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 10px;
+}
+
+.nav-img-1 {
+    width: 32px;
+    height: 32px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    position: absolute;
+    left: 0%;
+    right: 76.64%;
+    top: 0%;
+    bottom: 0%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    /* W */
+
+    border: 1px solid #FFFFFF;
+    border-radius: 16px;
+}
+
+.telephone {
+    width: 97px;
+    height: 20px;
+    /* Montserrat / 16 bold */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    /* W */
+
+    color: #ffffff;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+body{
+    /* trang chủ */
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+
+    /* bg */
+
+    background: radial-gradient(97.91% 60.14% at 50% 50%, #FFDB7E 0%, #FF7A00 100%);
+    border-radius: 32px;
+    z-index: 2;
+}
+
+/*background css*/
+
+.background-container{
+    position: absolute;
+    width: 1784px;
+    height: 961px;
+    left: 75px;
+    top: 70px;
+
+    /* Gradient / bg */
+
+    background: linear-gradient(180deg, #FFB648 0%, #FFB648 100%);
+    box-shadow: 0px 4px 27px rgba(180, 106, 38, 0.25);
+    border-radius: 0px 0px 56px 56px;
+}
+
+.background-frame-1{
+    position: absolute;
+    left: 59.75%;
+    right: 33.77%;
+    top: -0.73%;
+    bottom: 84.95%;
+}
+
+.background-frame-2{
+    position: absolute;
+    left: -0.39%;
+    right: 93.89%;
+    top: 54.11%;
+    bottom: 30.1%;
+}
+
+.background-group-1{
+    position: absolute;
+    left: -0.56%;
+    right: -0.02%;
+    top: 0.1%;
+    bottom: -13.74%;
+}
+
+.vector-g1-1{
+    position: absolute;
+    left: -0.12%;
+    right: 79.21%;
+    top: 4.51%;
+    bottom: -4.68%;
+
+    background: linear-gradient(90deg, #DB5098 0.56%, #FFFED1 100%);
+    mix-blend-mode: multiply;
+    opacity: 0.3;
+}
+
+.vector-g1-2{
+    position: absolute;
+    left: 46.59%;
+    right: 26.01%;
+    top: 1.05%;
+    bottom: -0.22%;
+
+    background: linear-gradient(90deg, #DB5098 0.56%, #FFFED1 100%);
+    mix-blend-mode: multiply;
+    opacity: 0.3;
+}
+
+.background-group-2{
+    position: absolute;
+    left: -0.56%;
+    right: -0.02%;
+    top: 0.1%;
+    bottom: -1.98%;
+
+    opacity: 0.2;
+}
+
+.vector-g2-1{
+    position: absolute;
+    left: 58.51%;
+    right: 33.26%;
+    top: 67.33%;
+    bottom: 30.76%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-2{
+    position: absolute;
+    left: 54.46%;
+    right: 31.56%;
+    top: 59.27%;
+    bottom: 38.78%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-3{
+    position: absolute;
+    left: 50.07%;
+    right: 29.59%;
+    top: 49.14%;
+    bottom: 49.16%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-4{
+    position: absolute;
+    left: 48.03%;
+    right: 28.82%;
+    top: 43.1%;
+    bottom: 54.74%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-5{
+    position: absolute;
+    left: 45.08%;
+    right: 28.03%;
+    top: 38.84%;
+    bottom: 59.9%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-6{
+    position: absolute;
+    left: 44.44%;
+    right: 27.92%;
+    top: 35.64%;
+    bottom: 61.48%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-7{
+    position: absolute;
+    left: 43.16%;
+    right: 27.2%;
+    top: 28.93%;
+    bottom: 66.99%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-8{
+    position: absolute;
+    left: 42.17%;
+    right: 26.69%;
+    top: 25.07%;
+    bottom: 70.54%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-9{
+    position: absolute;
+    left: 40.41%;
+    right: 26.17%;
+    top: 17.18%;
+    bottom: 78.14%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-10{
+    position: absolute;
+    left: 38.7%;
+    right: 25.88%;
+    top: 10.38%;
+    bottom: 87.06%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-11{
+    position: absolute;
+    left: 37.25%;
+    right: 25.71%;
+    top: 2.62%;
+    bottom: 94.42%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-12{
+    position: absolute;
+    left: -0.31%;
+    right: 96.4%;
+    top: 73.13%;
+    bottom: -1.98%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-13{
+    position: absolute;
+    left: -0.31%;
+    right: 93.06%;
+    top: 56.05%;
+    bottom: -0.75%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-14{
+    position: absolute;
+    left: -0.56%;
+    right: 90.14%;
+    top: 41.2%;
+    bottom: -0.52%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-15{
+    position: absolute;
+    left: -0.44%;
+    right: 88.79%;
+    top: 23.12%;
+    bottom: -0.51%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-16{
+    position: absolute;
+    left: -0.16%;
+    right: 81.28%;
+    top: 5.27%;
+    bottom: -0.52%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-17{
+    position: absolute;
+    left: -0.4%;
+    right: 76.91%;
+    top: 0.86%;
+    bottom: -0.1%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-18{
+    position: absolute;
+    left: 2.4%;
+    right: 69.53%;
+    top: 0.1%;
+    bottom: -0.1%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-19{
+    position: absolute;
+    left: 5.44%;
+    right: 65.58%;
+    top: 0.44%;
+    bottom: -0.09%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-20{
+    position: absolute;
+    left: 9.79%;
+    right: 62.29%;
+    top: 1.03%;
+    bottom: -0.36%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-21{
+    position: absolute;
+    left: 14.02%;
+    right: 58.54%;
+    top: 0.86%;
+    bottom: -0.03%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-22{
+    position: absolute;
+    left: 16.11%;
+    right: 56.66%;
+    top: 0.28%;
+    bottom: -0.1%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-23{
+    position: absolute;
+    left: 18.82%;
+    right: 52.38%;
+    top: 0.85%;
+    bottom: 0.42%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-24{
+    position: absolute;
+    left: 21.1%;
+    right: 47.49%;
+    top: 0.86%;
+    bottom: 3.45%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-25{
+    position: absolute;
+    left: 23.15%;
+    right: 44.62%;
+    top: 0.61%;
+    bottom: 7.03%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-26{
+    position: absolute;
+    left: 27.44%;
+    right: 39.79%;
+    top: 0.86%;
+    bottom: 14.31%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-27{
+    position: absolute;
+    left: 31.39%;
+    right: 37.63%;
+    top: 0.86%;
+    bottom: 19.57%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-28{
+    position: absolute;
+    left: 34.05%;
+    right: 36.69%;
+    top: 0.86%;
+    bottom: 21.4%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-29{
+    position: absolute;
+    left: 97.6%;
+    right: -0.02%;
+    top: 44.7%;
+    bottom: 0.23%;
+
+    background: #FFFFBF;
+}
+.vector-g2-30{
+    position: absolute;
+    left: 93.1%;
+    right: -0.02%;
+    top: 18.97%;
+    bottom: -0.51%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-31{
+    position: absolute;
+    left: 90.84%;
+    right: -0.02%;
+    top: 0.64%;
+    bottom: -0.51%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-32{
+    position: absolute;
+    left: 84.41%;
+    right: 1.15%;
+    top: 0.88%;
+    bottom: -0.52%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-33{
+    position: absolute;
+    left: 79.45%;
+    right: 5.46%;
+    top: 0.88%;
+    bottom: -0.93%;
+
+    background: #FFFFBF;
+}
+
+.vector-g2-34{
+    position: absolute;
+    left: 76.86%;
+    right: 10.33%;
+    top: 0.64%;
+    bottom: -0.26%;
+
+    background: #FFFFBF;
+}
+.vector-g2-35
+.vector-g2-36
+.vector-g2-37
+.vector-g2-38
+.vector-g2-39
+.vector-g2-40
+
+.home-img-1{
+    position: absolute;
+    width: 300px;
+    height: 510px;
+    left: -20px;
+    top: 528px;
+}
+
+.home-img-2{
+    position: absolute;
+    width: 147.37px;
+    height: 210px;
+    left: 18px;
+    top: 321px;
+}
+
+.home-img-3{
+    position: absolute;
+    left: 91.67%;
+    right: -1.98%;
+    top: 34.15%;
+    bottom: 40.22%;
+}
+
+.home-img-4{
+    position: absolute;
+    left: 32.81%;
+    right: 61.46%;
+    top: 84.78%;
+    bottom: 1%;
+}
+
+.home-img-5{
+    position: absolute;
+    left: 88.18%;
+    right: 3.18%;
+    top: 74.82%;
+    bottom: 3.71%;
+
+}
+
+.home-img-6{
+    position: absolute;
+    left: 42.03%;
+    right: 50.47%;
+    top: 16.58%;
+    bottom: 64.86%;
+}
+
+.home-img-7{
+    position: absolute;
+    width: 788px;
+    height: 443px;
+    left: 1052px;
+    top: 23px;
+}
+
+.home-img-8{
+    position: absolute;
+    left: 53.59%;
+    right: 40.31%;
+    top: 8.61%;
+    bottom: 75.63%;
+}
+
+.home-img-9{
+    position: absolute;
+    left: 10.42%;
+    right: 80.16%;
+    top: 14.22%;
+    bottom: 72.64%;
+}
+
+.box-out-1{
+    position: absolute;
+    left: 68.18%;
+    right: 17.03%;
+    top: 31.67%;
+    bottom: 61.41%;
+
+    background: #C81212;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+    
+}
+
+.box-out-2{
+    position: absolute;
+    left: 68.18%;
+    right: 17.03%;
+    top: 31.34%;
+    bottom: 61.74%;
+    
+    background: linear-gradient(176.02deg, #FF000A -12.67%, #C2000B 101.08%);
+    border-radius: 15px;
+}
+
+.box-out-3{
+    position: absolute;
+    left: 68.44%;
+    right: 17.24%;
+    top: 31.7%;
+    bottom: 61.87%;
+
+    border: 1px dashed #FFFFFF;
+    border-radius: 15px;
+}
+
+.text-1{
+    position: absolute;
+    left: 72%;
+    right: 20.04%;
+    top: 32.43%;
+    bottom: 63.86%;
+
+    /* Koni / 28 */
+
+    font-family: 'Pacifico', cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #ffffff;
+}
