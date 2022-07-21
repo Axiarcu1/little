@@ -231,9 +231,7 @@ body{
     top: 4.51%;
     bottom: -4.68%;
 
-    background: linear-gradient(90deg, #DB5098 0.56%, #FFFED1 100%);
-    mix-blend-mode: multiply;
-    opacity: 0.3;
+    
 }
 
 .vector-g1-2{
@@ -243,9 +241,66 @@ body{
     top: 1.05%;
     bottom: -0.22%;
 
-    background: linear-gradient(90deg, #DB5098 0.56%, #FFFED1 100%);
-    mix-blend-mode: multiply;
-    opacity: 0.3;
+    
+}
+
+.vector-g1-3{
+    position: absolute;
+    left: -0.36%;
+    right: 83.6%;
+    top: 0.88%;
+    bottom: -2.34%;
+
+}
+
+.vector-g1-4{
+    position: absolute;
+    left: 36.84%;
+    right: 35.94%;
+    top: 0.47%;
+    bottom: 23.59%;
+}
+
+.vector-g1-5{
+    position: absolute;
+    left: 47.48%;
+    right: 25.44%;
+    top: 0.88%;
+    bottom: -0.94%;
+}
+
+.vector-g1-6{
+    position: absolute;
+    left: -0.38%;
+    right: 69.19%;
+    top: 0.47%;
+    bottom: -13.74%;
+}
+
+.vector-g1-7{
+    position: absolute;
+    left: 49.16%;
+    right: 0.02%;
+    top: 0.47%;
+    bottom: -0.04%;
+
+}
+
+.vector-g1-8{
+    position: absolute;
+    left: -0.38%;
+    right: 0.02%;
+    top: 0.47%;
+    bottom: -0.05%;
+
+}
+
+.vector-g1-9{
+    position: absolute;
+    left: -0.38%;
+    right: 0.02%;
+    top: 0.47%;
+    bottom: -0.05%;
 }
 
 .background-group-2{
@@ -264,8 +319,6 @@ body{
     right: 33.26%;
     top: 67.33%;
     bottom: 30.76%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-2{
@@ -274,8 +327,6 @@ body{
     right: 31.56%;
     top: 59.27%;
     bottom: 38.78%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-3{
@@ -284,8 +335,6 @@ body{
     right: 29.59%;
     top: 49.14%;
     bottom: 49.16%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-4{
@@ -294,8 +343,6 @@ body{
     right: 28.82%;
     top: 43.1%;
     bottom: 54.74%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-5{
@@ -304,8 +351,6 @@ body{
     right: 28.03%;
     top: 38.84%;
     bottom: 59.9%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-6{
@@ -314,8 +359,6 @@ body{
     right: 27.92%;
     top: 35.64%;
     bottom: 61.48%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-7{
@@ -324,8 +367,6 @@ body{
     right: 27.2%;
     top: 28.93%;
     bottom: 66.99%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-8{
@@ -334,8 +375,6 @@ body{
     right: 26.69%;
     top: 25.07%;
     bottom: 70.54%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-9{
@@ -344,8 +383,6 @@ body{
     right: 26.17%;
     top: 17.18%;
     bottom: 78.14%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-10{
@@ -354,8 +391,6 @@ body{
     right: 25.88%;
     top: 10.38%;
     bottom: 87.06%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-11{
@@ -364,8 +399,6 @@ body{
     right: 25.71%;
     top: 2.62%;
     bottom: 94.42%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-12{
@@ -374,8 +407,6 @@ body{
     right: 96.4%;
     top: 73.13%;
     bottom: -1.98%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-13{
@@ -384,8 +415,6 @@ body{
     right: 93.06%;
     top: 56.05%;
     bottom: -0.75%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-14{
@@ -394,8 +423,6 @@ body{
     right: 90.14%;
     top: 41.2%;
     bottom: -0.52%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-15{
@@ -404,8 +431,6 @@ body{
     right: 88.79%;
     top: 23.12%;
     bottom: -0.51%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-16{
@@ -414,8 +439,6 @@ body{
     right: 81.28%;
     top: 5.27%;
     bottom: -0.52%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-17{
@@ -424,8 +447,6 @@ body{
     right: 76.91%;
     top: 0.86%;
     bottom: -0.1%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-18{
@@ -434,8 +455,6 @@ body{
     right: 69.53%;
     top: 0.1%;
     bottom: -0.1%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-19{
@@ -444,8 +463,6 @@ body{
     right: 65.58%;
     top: 0.44%;
     bottom: -0.09%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-20{
@@ -454,8 +471,6 @@ body{
     right: 62.29%;
     top: 1.03%;
     bottom: -0.36%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-21{
@@ -464,8 +479,6 @@ body{
     right: 58.54%;
     top: 0.86%;
     bottom: -0.03%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-22{
@@ -474,8 +487,6 @@ body{
     right: 56.66%;
     top: 0.28%;
     bottom: -0.1%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-23{
@@ -484,8 +495,6 @@ body{
     right: 52.38%;
     top: 0.85%;
     bottom: 0.42%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-24{
@@ -494,8 +503,6 @@ body{
     right: 47.49%;
     top: 0.86%;
     bottom: 3.45%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-25{
@@ -504,8 +511,6 @@ body{
     right: 44.62%;
     top: 0.61%;
     bottom: 7.03%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-26{
@@ -514,8 +519,6 @@ body{
     right: 39.79%;
     top: 0.86%;
     bottom: 14.31%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-27{
@@ -524,8 +527,6 @@ body{
     right: 37.63%;
     top: 0.86%;
     bottom: 19.57%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-28{
@@ -534,8 +535,6 @@ body{
     right: 36.69%;
     top: 0.86%;
     bottom: 21.4%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-29{
@@ -544,8 +543,6 @@ body{
     right: -0.02%;
     top: 44.7%;
     bottom: 0.23%;
-
-    background: #FFFFBF;
 }
 .vector-g2-30{
     position: absolute;
@@ -553,8 +550,6 @@ body{
     right: -0.02%;
     top: 18.97%;
     bottom: -0.51%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-31{
@@ -563,8 +558,6 @@ body{
     right: -0.02%;
     top: 0.64%;
     bottom: -0.51%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-32{
@@ -573,8 +566,6 @@ body{
     right: 1.15%;
     top: 0.88%;
     bottom: -0.52%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-33{
@@ -583,8 +574,6 @@ body{
     right: 5.46%;
     top: 0.88%;
     bottom: -0.93%;
-
-    background: #FFFFBF;
 }
 
 .vector-g2-34{
@@ -593,15 +582,55 @@ body{
     right: 10.33%;
     top: 0.64%;
     bottom: -0.26%;
-
-    background: #FFFFBF;
 }
-.vector-g2-35
-.vector-g2-36
-.vector-g2-37
-.vector-g2-38
-.vector-g2-39
-.vector-g2-40
+
+.vector-g2-35{
+    position: absolute;
+    left: 74.52%;
+    right: 12.66%;
+    top: 0.64%;
+    bottom: -0.51%;
+}
+
+.vector-g2-36{
+    position: absolute;
+    left: 71.74%;
+    right: 15.43%;
+    top: 0.63%;
+    bottom: -0.02%;
+}
+
+.vector-g2-37{
+    position: absolute;
+    left: 68.81%;
+    right: 16.59%;
+    top: 0.64%;
+    bottom: -0.04%;
+}
+
+.vector-g2-38{
+    position: absolute;
+    left: 63.61%;
+    right: 18.81%;
+    top: 0.3%;
+    bottom: -0.26%;
+}
+
+.vector-g2-39{
+    position: absolute;
+    left: 56.6%;
+    right: 22.36%;
+    top: 1.05%;
+    bottom: -0.54%;
+}
+
+.vector-g2-40{
+    position: absolute;
+    left: 53.47%;
+    right: 23.61%;
+    top: 1.05%;
+    bottom: -0.29%;
+}
 
 .home-img-1{
     position: absolute;
