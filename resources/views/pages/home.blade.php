@@ -72,10 +72,13 @@
           </div>
         </div>
 
-        <div class="box-out-1"></div>
+        <!--<div class="box-out-1"></div>
         <div class="box-out-2"></div>
-        <div class="box-out-3"></div>
-        <div class="text-1">Vé của bạn</div>
-
+        <div class="box-out-3"></div>-->
+        <div class="tencuaban-container">
+          <img src="images/tencuaban.png" class="tencuaban">
+          <div class="text-1">Vé của bạn</div>
+        </div>
+        
     </main>
 @endsection
