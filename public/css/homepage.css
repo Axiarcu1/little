@@ -1,0 +1,279 @@
+.box-out-1{
+    position: absolute;
+    left: 68.18%;
+    right: 17.03%;
+    top: 31.67%;
+    bottom: 61.41%;
+
+    background: #C81212;
+    border-radius: 15px;
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+    
+}
+
+.box-out-2{
+    position: absolute;
+    left: 68.18%;
+    right: 17.03%;
+    top: 31.34%;
+    bottom: 61.74%;
+    
+    background: linear-gradient(176.02deg, #FF000A -12.67%, #C2000B 101.08%);
+    border-radius: 15px;
+}
+
+.box-out-3{
+    position: absolute;
+    left: 68.44%;
+    right: 17.24%;
+    top: 31.7%;
+    bottom: 61.87%;
+
+    border: 1px dashed #FFFFFF;
+    border-radius: 15px;
+}
+
+.text-1{
+    position: absolute;
+    left: 72%;
+    right: 20.04%;
+    top: 32.43%;
+    bottom: 63.86%;
+
+    /* Koni / 28 */
+
+    font-family: 'Pacifico', cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.text-2{
+    position: absolute;
+    width: 322px;
+    height: 100px;
+    left: 397px;
+    top: 137px;
+
+    font-family: 'Pacifico', cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 100px;
+    /* identical to box height, or 139% */
+
+
+    /* W */
+
+    color: #FFFFFF
+}
+
+.text-3{
+    position: absolute;
+    width: 197px;
+    height: 100px;
+    left: 402px;
+    top: 213px;
+
+    font-family: 'Pacifico', cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 100px;
+    /* identical to box height, or 139% */
+
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.text-4{
+    width: 703px;
+    height: 36px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+
+
+    /* Text */
+
+    color: #23221F;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.content-container{
+    position: absolute;
+    width: 1520px;
+    height: 600px;
+    left: 201px;
+    top: 361px;
+}
+
+.vector-content-1{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 2.61%;
+    bottom: 0%;
+}
+
+.vector-content-2{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 0%;
+    bottom: 2.61%;
+}
+
+.vector-content-3{
+    position: absolute;
+    left: 0.8%;
+    right: 38.3%;
+    top: 2.09%;
+    bottom: 4.7%;
+}
+
+.vector-content-4{
+    position: absolute;
+    left: 0.8%;
+    right: 38.3%;
+    top: 2.09%;
+    bottom: 4.7%;
+}
+
+.vector-content-5{
+    position: absolute;
+    left: 64.47%;
+    right: 0.07%;
+    top: 2.65%;
+    bottom: 0%;
+}
+
+.vector-content-6{
+    position: absolute;
+    left: 64.47%;
+    right: 0.07%;
+    top: 0.04%;
+    bottom: 2.61%;
+}
+
+.vector-content-7{
+    position: absolute;
+    left: 65.36%;
+    right: 0.95%;
+    top: 2.13%;
+    bottom: 4.7%;
+}
+
+.vector-content-8{
+    position: absolute;
+    left: 65.36%;
+    right: 0.95%;
+    top: 2.13%;
+    bottom: 4.7%;
+}
+
+.vector-content-9{
+    position: absolute;
+    left: 59.67%;
+    right: 31.05%;
+    top: 0%;
+    bottom: 2.7%;
+}
+
+.content-1{
+    position: absolute;
+    left: 4.47%;
+    right: 40.92%;
+    top: 8%;
+    bottom: 67%;
+
+    /* 20 medium */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 50;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+
+    /* Text */
+
+    color: #23221F;
+
+    opacity: 0.7;
+}
+
+.line-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 748px;
+    height: 40px;
+    left: 127px;
+    top: 407px;
+}
+
+.line-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 748px;
+    height: 40px;
+    left: 127px;
+    top: 351px;
+}
+
+.line-3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 748px;
+    height: 40px;
+    left: 127px;
+    top: 295px;
+}
+
+.line-4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 748px;
+    height: 40px;
+    left: 127px;
+    top: 239px;
+}

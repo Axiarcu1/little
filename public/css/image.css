@@ -1,0 +1,81 @@
+.home-img-1{
+    position: absolute;
+    width: 300px;
+    height: 510px;
+    left: -20px;
+    top: 528px;
+    z-index: 2;
+}
+
+.home-img-2{
+    position: absolute;
+    width: 147.37px;
+    height: 210px;
+    left: 18px;
+    top: 321px;
+}
+
+.home-img-3{
+    position: absolute;
+    left: 91.67%;
+    right: -1.98%;
+    top: 34.15%;
+    bottom: 40.22%;
+}
+
+.home-img-4{
+    position: absolute;
+    left: 32.81%;
+    right: 61.46%;
+    top: 98.78%;
+    bottom: 16%;
+}
+
+.home-img-5{
+    position: absolute;
+    left: 88.18%;
+    right: 3.18%;
+    top: 74.82%;
+    bottom: 3.71%;
+
+}
+
+.home-img-6{
+    position: absolute;
+    left: 42.03%;
+    right: 50.47%;
+    top: 16.58%;
+    bottom: 64.86%;
+}
+
+.home-img-7{
+    position: absolute;
+    width: 788px;
+    height: 443px;
+    left: 1052px;
+    top: 23px;
+}
+
+.home-img-8{
+    position: absolute;
+    left: 53.59%;
+    right: 40.31%;
+    top: 8.61%;
+    bottom: 75.63%;
+}
+
+.home-img-9{
+    position: absolute;
+    left: 10.42%;
+    right: 80.16%;
+    top: 14.22%;
+    bottom: 72.64%;
+}
+
+.star{
+    position: absolute;
+    left: -0.01%;
+    right: 3.38%;
+    top: 0%;
+    bottom: -0.1%;
+}
