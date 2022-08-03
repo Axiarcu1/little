@@ -23,8 +23,8 @@
         <div class="nav-container">
             <img src="images/Little & Little Logo (ngang) 1.png" class="logo">
             <ul class="nav-bar">
-                <li><a href="#Trang chủ"> Trang chủ</a></li>
-                <li><a href="#Sự kiện"> Sự kiện</a></li>
+                <li><a href="/"> Trang chủ</a></li>
+                <li><a href="/event"> Sự kiện</a></li>
                 <li><a href="#Liên hệ"> Liên hệ</a></li>
             </ul>
             <div class="nav-contact">
@@ -37,7 +37,7 @@
       </header> 
     
     <!--Background-->
-        <img src="images/bg.png" class="background-img">
+      
     @yield('contents')
   </body>
 </html>

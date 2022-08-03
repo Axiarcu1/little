@@ -1,7 +1,9 @@
 @extends('layouts.temp')
 @section('contents')
   
-      
+        <div class="background-img">
+          <img src="images/bg.png" >
+        </div>
         <img src="images/Lisa_Arnold_Lay_Do_F2 3.png" class="home-img-1">
         <img src="images/18451 [Converted]-06 1.png" class="home-img-2">
         <img src="images/18451 [Converted]-05 1.png" class="home-img-3">
