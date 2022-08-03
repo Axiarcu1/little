@@ -35,17 +35,17 @@
 
 .text-1{
     position: absolute;
-    left: 25%;
-    right: 20.04%;
-    top: 22.43%;
+    left: 22%;
+    right: 3.04%;
+    top: 20.43%;
     bottom: 63.86%;
 
     /* Koni / 28 */
 
-    font-family: 'Pacifico', cursive;
+    font-family: iCielKoni;
     font-style: normal;
     font-weight: 900;
-    font-size: 32px;
+    font-size: 28px;
     line-height: 41px;
 
     /* W */
@@ -60,7 +60,7 @@
     left: 397px;
     top: 137px;
 
-    font-family: 'Pacifico', cursive;
+    font-family: iCielKoni;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -80,7 +80,7 @@
     left: 402px;
     top: 213px;
 
-    font-family: 'Pacifico', cursive;
+    font-family: iCielKoni;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -287,4 +287,224 @@
     /* button */
 
     filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+}
+
+.ticket-info{
+    position: absolute;
+    left: 66.84%;
+    right: 2.43%;
+    top: 14.5%;
+    bottom: 23.17%;
+}
+
+::placeholder{
+    width: 120px;
+    height: 26px;
+
+    /* 18 medium */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+
+    /* Ultimate Gray */
+
+    color: #989A9C;
+}
+
+.amount-ticket{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 16px;
+    gap: 260px;
+
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 0px;
+    top: 72px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+.user-email{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 16px;
+    gap: 260px;
+
+    position: absolute;
+    width: 455px;
+    height: 66px;
+    left: 0px;
+    top: 308px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+.phone-num{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 16px;
+    gap: 260px;
+
+    position: absolute;
+    width: 455px;
+    height: 66px;
+    left: 0px;
+    top: 226px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+.user-name{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 16px;
+    gap: 260px;
+
+    position: absolute;
+    width: 455px;
+    height: 66px;
+    left: 0px;
+    top: 144px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+.used-date{
+    position: absolute;
+    width: 194px;
+    height: 56px;
+    left: 189px;
+    top: 72px;
+
+    padding: 0px 0px 0px 16px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+input[type="date"]{
+    
+
+    /* 18 medium */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+
+    /* Ultimate Gray */
+
+    color: #989A9C;
+}
+
+.pack-category{
+    position: absolute;
+    width: 384px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+
+    padding: 0px 0px 0px 16px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border-style: none;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=text]{
+    color: black;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.datve-button{
+    position: absolute;
+    left: 12.2%;
+    right: 5.59%;
+    top: 105.83%;
+    bottom: 7.83%;
+
+    width: 368px;
+    height: 68px;
+
+    /* button */
+
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+    background-image: url("../images/datve.png");
+    border: none;
+    background-color: transparent;
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #FFFFFF;
+
 }

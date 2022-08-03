@@ -12,8 +12,8 @@
         <img src="images/18451 [Converted]-02 1.png" class="home-img-8">
         <img src="images/image 2.png" class="home-img-9">
 
-        <div class="text-2">Đầm sen</div>
-        <div class="text-3">Park</div>
+        <div class="text-2">ĐẦM SEN</div>
+        <div class="text-3">PARK</div>
 
         <div class="content-container">
           <svg class="vector-content-1" width="950" height="585" viewBox="0 0 950 585" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -70,6 +70,21 @@
               <p class="text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
+
+          <div class="ticket-info">
+            <form action="#" method="POST">
+                <input type="number" placeholder="Số lượng vé" name="So-luong-ve" class="amount-ticket" inputmode="numeric">
+                <input type="text" placeholder="Họ và tên" name="Ho-va-ten" class="user-name">
+                <input type="number" placeholder="Số điện thoại" name="So-dien-thoai" class="phone-num" inputmode="numeric">
+                <input type="date" placeholder="Ngày sử dụng" name="Ngay-su-dung" class="used-date">
+                <input type="text" placeholder="Địa chỉ Email" name="Email" class="user-email">
+                <input type="text" placeholder="Chọn gói" name="Package" class="pack-category">
+                <img src="images/button1.png" class="dropdown-button">
+                <img src="images/button2.png" class="calendar-button">
+                <button type="button" class="datve-button">Đặt vé</button>
+            </form>
+          </div>
+          
         </div>
 
         <!--<div class="box-out-1"></div>
@@ -77,7 +92,7 @@
         <div class="box-out-3"></div>-->
         <div class="tencuaban-container">
           <img src="images/tencuaban.png" class="tencuaban">
-          <div class="text-1">Vé của bạn</div>
+          <div class="text-1">VÉ CỦA BẠN</div>
         </div>
         
     </main>

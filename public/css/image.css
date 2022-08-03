@@ -80,10 +80,22 @@
     bottom: -0.1%;
 }
 
-/*.tencuaban{
+.dropdown-button{
     position: absolute;
-    left: 68.18%;
-    right: 17.03%;
-    top: 31.34%;
-    bottom: 61.41%;
-}*/
+    width: 53px;
+    height: 56px;
+    left: 414px;
+    top: 0px;
+
+    filter: drop-shadow(0px 3px 2px #DE9959);
+}
+
+.calendar-button{
+    position: absolute;
+    width: 53px;
+    height: 56px;
+    left: 414px;
+    top: 72px;
+
+    filter: drop-shadow(0px 3px 2px #DE9959);
+}

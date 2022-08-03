@@ -18,7 +18,7 @@ Route::get('/', function () {
 })->name('home');
 
 Route::get('/event', function () {
-    return view('event');
+    return view('pages.event');
 })->name('event');
 
 Route::get('/detailed', function () {
