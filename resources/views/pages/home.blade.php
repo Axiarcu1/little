@@ -4,15 +4,15 @@
         <div class="background-img">
           <img src="images/bg.png" >
         </div>
-        <img src="images/Lisa_Arnold_Lay_Do_F2 3.png" class="home-img-1">
-        <img src="images/18451 [Converted]-06 1.png" class="home-img-2">
-        <img src="images/18451 [Converted]-05 1.png" class="home-img-3">
-        <img src="images/18451 [Converted]-04 1.png" class="home-img-4">
-        <img src="images/18451 [Converted]-03 2.png" class="home-img-5">
-        <img src="images/18451 [Converted]-03 1.png" class="home-img-6">
-        <img src="images/render fix hair 1.png" class="home-img-7">
-        <img src="images/18451 [Converted]-02 1.png" class="home-img-8">
-        <img src="images/image 2.png" class="home-img-9">
+        <img src="images/homepage/Lisa_Arnold_Lay_Do_F2 3.png" class="home-img-1">
+        <img src="images/homepage/18451 [Converted]-06 1.png" class="home-img-2">
+        <img src="images/homepage/18451 [Converted]-05 1.png" class="home-img-3">
+        <img src="images/homepage/18451 [Converted]-04 1.png" class="home-img-4">
+        <img src="images/homepage/18451 [Converted]-03 2.png" class="home-img-5">
+        <img src="images/homepage/18451 [Converted]-03 1.png" class="home-img-6">
+        <img src="images/homepage/render fix hair 1.png" class="home-img-7">
+        <img src="images/homepage/18451 [Converted]-02 1.png" class="home-img-8">
+        <img src="images/homepage/image 2.png" class="home-img-9">
 
         <div class="text-2">ĐẦM SEN</div>
         <div class="text-3">PARK</div>
@@ -53,22 +53,22 @@
           </div>
           <div class="content-2">
             <div class="line-1">
-              <img src="images/star.png" class="star">
+              <img src="images/homepage/star.png" class="star">
               <p class="text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             
             <div class="line-2">
-              <img src="images/star.png" class="star">
+              <img src="images/homepage/star.png" class="star">
               <p class="text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             
             <div class="line-3">
-              <img src="images/star.png" class="star">
+              <img src="images/homepage/star.png" class="star">
               <p class="text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             
             <div class="line-4">
-              <img src="images/star.png" class="star">
+              <img src="images/homepage/star.png" class="star">
               <p class="text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
@@ -81,8 +81,12 @@
                 <input type="date" placeholder="Ngày sử dụng" name="Ngay-su-dung" class="used-date">
                 <input type="text" placeholder="Địa chỉ Email" name="Email" class="user-email">
                 <input type="text" placeholder="Chọn gói" name="Package" class="pack-category">
-                <img src="images/button1.png" class="dropdown-button">
-                <img src="images/button2.png" class="calendar-button">
+                <button type="button" class="dropdown-button">
+                  <img src="images/homepage/Arrow - Down 2.png" alt="">
+                </button>
+                <button type="button" class="calendar-button">
+                  <img src="images/homepage/calendar.png" alt="" class="button-icon-1">
+                </button>
                 <button type="button" class="datve-button">Đặt vé</button>
             </form>
           </div>
@@ -93,7 +97,7 @@
         <div class="box-out-2"></div>
         <div class="box-out-3"></div>-->
         <div class="tencuaban-container">
-          <img src="images/tencuaban.png" class="tencuaban">
+          <img src="images/homepage/tencuaban.png" class="tencuaban">
           <div class="text-1">VÉ CỦA BẠN</div>
         </div>
         

@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>My Website</title>
-    <link rel="stylesheet" href="css/general-1.css">
+    <link rel="stylesheet" href="css/general.css">
     <link rel="stylesheet" href="css/homepage.css">
-    <link rel="stylesheet" href="css/image.css">
+    <link rel="stylesheet" href="css/image2.css">
     <link rel="stylesheet" href="css/navigation.css">
     <link rel="stylesheet" href="css/event.css">
+    <link rel="stylesheet" href="css/detailed.css">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,15 +22,15 @@
     <!--Navigation Bar-->
     <header>
         <div class="nav-container">
-            <img src="images/Little & Little Logo (ngang) 1.png" class="logo">
+            <img src="images/homepage/Little & Little Logo (ngang) 1.png" class="logo">
             <ul class="nav-bar">
                 <li><a href="/"> Trang chủ</a></li>
                 <li><a href="/event"> Sự kiện</a></li>
-                <li><a href="#Liên hệ"> Liên hệ</a></li>
+                <li><a href="/contact"> Liên hệ</a></li>
             </ul>
             <div class="nav-contact">
                 <div class="nav-img">
-                    <img src="images/Vector (Stroke).png" class="nav-img-1">
+                    <img src="images/homepage/Vector (Stroke).png" class="nav-img-1">
                 </div>
                 <div class="telephone">0123456789</div>
             </div>

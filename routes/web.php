@@ -22,7 +22,7 @@ Route::get('/event', function () {
 })->name('event');
 
 Route::get('/detailed', function () {
-    return view('detailed');
+    return view('pages.detailed');
 })->name('detailed');
 
 Route::get('/checkout', function () {

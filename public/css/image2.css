@@ -80,22 +80,85 @@
     bottom: -0.1%;
 }
 
-.dropdown-button{
-    position: absolute;
-    width: 53px;
-    height: 56px;
-    left: 414px;
-    top: 0px;
+/* event page images css*/
 
-    filter: drop-shadow(0px 3px 2px #DE9959);
+.event-obj-1{
+    position: absolute;
+    width: 1784px;
+    height: 772px;
+    left: 28px;
+    top: 4px;
 }
 
-.calendar-button{
+.event-obj-2{
     position: absolute;
-    width: 53px;
-    height: 56px;
-    left: 414px;
-    top: 72px;
-
-    filter: drop-shadow(0px 3px 2px #DE9959);
+    width: 579px;
+    height: 312px;
+    left: 1300.17px;
+    top: -39.35px;
 }
+
+.event-obj-3{
+    position: absolute;
+    width: 621px;
+    height: 226px;
+    left: -84px;
+    top: 11px;
+}
+
+.event-obj-4{
+    position: absolute;
+    left: 34.33%;
+    right: 65.23%;
+    top: 84.29%;
+    bottom: 11.86%;
+}
+
+.event-obj-5{
+    position: absolute;
+    left: 27.01%;
+    right: 71.47%;
+    top: 84.57%;
+    bottom: 12.19%;
+}
+
+.event-obj-6{
+    position: absolute;
+    left: 92.45%;
+    right: 8.68%;
+    top: 81.58%;
+    bottom: 16.61%;
+}
+
+.event-obj-7{
+    position: absolute;
+    left: 75.05%;
+    right: 25.01%;
+    top: 80%;
+    bottom: 16.98%;
+}
+
+.event-obj-8{
+    position: absolute;
+    left: 42.31%;
+    right: 57.74%;
+    top: 80.75%;
+    bottom: 17.59%;
+}
+
+.event-obj-9{
+    position: absolute;
+    left: 55.78%;
+    right: 43.61%;
+    top: 81.44%;
+    bottom: 14.01%;
+}
+
+.event-obj-10{
+    position: absolute;
+    left: 67.43%;
+    right: 34.2%;
+    top: 81.61%;
+    bottom: 16.63%;
+}
+
