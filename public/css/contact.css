@@ -1,0 +1,31 @@
+.contact-text-1{
+    position: absolute;
+    width: 328px;
+    height: 100px;
+    left: 796px;
+    top: 144px;
+
+    /* Header */
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    /* identical to box height, or 104% */
+
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.contact-img{
+    position: absolute;
+    width: 329px;
+    height: 594px;
+    left: 30px;
+    top: 347px;
+
+    background: url(/images/contactpage/Alex_AR_Lay_Do.png);
+}

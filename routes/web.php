@@ -30,5 +30,5 @@ Route::get('/checkout', function () {
 })->name('checkout');
 
 Route::get('/contact', function () {
-    return view('contact');
+    return view('pages.contact');
 })->name('contact');
