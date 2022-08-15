@@ -3,7 +3,7 @@
     width: 328px;
     height: 100px;
     left: 796px;
-    top: 144px;
+    top: 94px;
 
     /* Header */
 
@@ -28,4 +28,645 @@
     top: 347px;
 
     background: url(/images/contactpage/Alex_AR_Lay_Do.png);
+}
+
+.contact-content{
+    position: absolute;
+    width: 1520px;
+    height: 647px;
+    left: 286px;
+    top: 293px;
+}
+
+.contact-text-2{
+    position: absolute;
+    left: 4.47%;
+    right: 40.92%;
+    top: 9.89%;
+    bottom: 80.83%;
+
+    /* 20 medium */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+
+    /* Text */
+
+    color: #23221F;
+
+    opacity: 0.7;
+}
+
+.contact-bkgrd-group{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 0%;
+    bottom: 0.15%;
+
+    height: 646px;
+    width: 950px;
+}
+
+.contact-layer-1{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 9.58%;
+    bottom: 0.15%;
+
+    height: 584px;
+    width: 950.0000610351562px;
+    left: 0px;
+    top: 62px;
+    border-radius: 50px;
+
+    background: #FFCA7B;
+}
+
+.contact-layer-2{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 0%;
+    bottom: 2.63%;
+
+    height: 630px;
+    width: 950px;
+    left: 0px;
+    top: 0px;
+    border-radius: 50px;
+
+    background: #FDE8B3;
+}
+
+.contact-layer-3{
+    position: absolute;
+    left: 0.79%;
+    right: 38.29%;
+    top: 1.85%;
+    bottom: 4.48%;
+
+    height: 606px;
+    width: 926px;
+    left: 12px;
+    top: 12px;
+    border-radius: 50px;
+
+    background: #FFF6D4;
+}
+
+.contact-layer-4{
+    position: absolute;
+    left: 0.79%;
+    right: 38.29%;
+    top: 1.85%;
+    bottom: 4.48%;
+
+    height: 606px;
+    width: 926px;
+    left: 12px;
+    top: 12px;
+    border-radius: 50px;
+
+    border: 3px dashed #FFB489;
+}
+
+.contact-button{
+    position: absolute;
+    left: 19.14%;
+    right: 76.64%;
+    top: 78.98%;
+    bottom: 10.51%;
+
+    height: 68px;
+    width: 368.01788330078125px;
+
+    left: 291px;
+    top: 511px;
+
+    /* button */
+
+    color:#ecf0f1;
+    text-decoration:none;
+    border-radius: 13px;
+    border: none;
+    background:#FF000A;
+    text-align:center;
+    padding:16px 18px 14px;
+
+    /*-webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    transition: all 0.1s;*/
+
+    -webkit-box-shadow: 0px 6px 0px #BD000B;
+    -moz-box-shadow: 0px 6px 0px #BD000B;
+    box-shadow: 0px 6px 0px #BD000B;
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 0px;
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.contact-button:active{
+    -webkit-box-shadow: 0px 2px 0px #BD000B;
+    -moz-box-shadow: 0px 2px 0px #BD000B;
+    box-shadow: 0px 2px 0px #BD000B;
+    position:relative;
+    top: 514px;
+}
+
+.contact-message{
+    position: absolute;
+    width: 808px;
+    height: 152px;
+    left: 68px;
+    top: 319px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    resize: none;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    border: none;
+
+    padding: 8px 0px 0px 12px;
+}
+
+.contact-message ::placeholder{
+    /* Ultimate Gray */
+    color: #989A9C;
+}
+
+.input-frame-2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+
+    position: absolute;
+    width: 808px;
+    height: 138px;
+    left: 68px;
+    top: 159px;
+}
+
+.input-frame-3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+
+    width: 293px;
+    height: 136px;
+}
+
+.contact-name{
+    width: 293px;
+    height: 56px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+    padding: 8px 0px 8px 12px;
+}
+
+.contact-tele{
+    width: 293px;
+    height: 56px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+    padding: 8px 0px 8px 12px;
+}
+
+.input-frame-4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+
+    width: 491px;
+    height: 138px;
+}
+
+.contact-e-address{
+    width: 491px;
+    height: 56px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+    padding: 8px 0px 8px 12px;
+}
+
+.contact-address{
+    width: 491px;
+    height: 58px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+    padding: 8px 0px 8px 12px;
+}
+
+.contact-addr{
+    position: absolute;
+    width: 539px;
+    height: 207px;
+    left: 980px;
+    top: 0px;
+}
+
+.contact-address-bkgrd{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0.97%;
+
+    height: 205px;
+    width: 539px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.contact-addr-layer-1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 34.78%;
+    bottom: 0.97%;
+
+    height: 133px;
+    width: 539px;
+    left: 0px;
+    top: 72px;
+    border-radius: 40px;
+
+    background: #FFCA7B;
+}
+
+.contact-addr-layer-2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 8.7%;
+
+    height: 189px;
+    width: 539px;
+    left: 0px;
+    top: 0px;
+    border-radius: 40px;
+
+    background: #FDE8B3;
+}
+
+.contact-addr-layer-3{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.8%;
+    bottom: 14.49%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+
+    background: #FFF6D4;
+}
+
+.contact-addr-layer-4{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.8%;
+    bottom: 14.49%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+
+    border: 3px dashed #FFB489;
+}
+
+.addr-symbol{
+    position: absolute;
+    left: 8.91%;
+    right: 79.59%;
+    top: 24.64%;
+    bottom: 45.41%;
+
+    height: 62px;
+    width: 62px;
+    left: 48px;
+    top: 51px;
+    border-radius: 0px;
+}
+
+.contact-text-3, .contact-text-4, .contact-text-5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    width: 92px;
+    height: 29px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: left;
+    text-align: left;
+
+    color: #12265A;
+}
+
+.contact-text-3 p, .contact-text-4 p, .contact-text-5 p{
+    width: 358px;
+    height: 52px;
+
+    position: absolute;
+    left: 0px;
+    top: 20px;
+
+    /* 18 medium */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+    display: flex;
+    align-items: left;
+
+    /* Text */
+
+    color: #23221F;
+
+    opacity: 0.7;
+}
+
+.contact-text-3{
+    position: absolute;
+    width: 358px;
+    height: 89px;
+    left: 134px;
+    top: 48px;
+}
+
+.contact-text-4{
+    position: absolute;
+    width: 244px;
+    height: 63px;
+    left: 134px;
+    top: 66px;
+}
+
+.contact-text-5{
+    position: absolute;
+    width: 231px;
+    height: 63px;
+    left: 134px;
+    top: 70px;
+}
+
+.contact-mail{
+    position: absolute;
+    width: 539px;
+    height: 205px;
+    left: 980px;
+    top: 220px;
+}
+
+.contact-mail-bkgrd{
+    height: 205px;
+    width: 539.0000610351562px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.mail-symbol{
+    position: absolute;
+    left: 8.91%;
+    right: 79.59%;
+    top: 29.27%;
+    bottom: 40.49%;
+}
+
+.contact-mail-layer-1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 35.12%;
+    bottom: 0%;
+
+    height: 133px;
+    width: 539.0000610351562px;
+    left: 0px;
+    top: 72px;
+    border-radius: 40px;
+
+    background: #FFCA7B;
+}
+
+.contact-mail-layer-2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 7.8%;
+
+    height: 189px;
+    width: 539px;
+    left: 0px;
+    top: 0px;
+    border-radius: 40px;
+
+    background: #FDE8B3;
+}
+
+.contact-mail-layer-3{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.85%;
+    bottom: 13.66%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+
+    background: #FFF6D4;
+}
+
+.contact-mail-layer-4{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.85%;
+    bottom: 13.66%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+    
+    border: 3px dashed #FFB489;
+}
+
+.contact-phone{
+    position: absolute;
+    width: 539px;
+    height: 205px;
+    left: 980px;
+    top: 441px;
+}
+
+.contact-phone-bkgrd{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    height: 205px;
+    width: 539px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.phone-symbol{
+    position: absolute;
+    left: 8.91%;
+    right: 79.59%;
+    top: 30.64%;
+    bottom: 45.41%;
+}
+
+.contact-phone-layer-1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 35.12%;
+    bottom: 0%;
+
+    height: 133px;
+    width: 539px;
+    left: 0px;
+    top: 72px;
+    border-radius: 40px;
+    
+    background: #FFCA7B;
+}
+
+.contact-phone-layer-2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 7.8%;
+
+    height: 189px;
+    width: 539px;
+    left: 0px;
+    top: 0px;
+    border-radius: 40px;
+    
+    background: #FDE8B3;
+}
+
+.contact-phone-layer-3{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.85%;
+    bottom: 13.66%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+    
+    background: #FFF6D4;
+}
+
+.contact-phone-layer-4{
+    position: absolute;
+    left: 2.23%;
+    right: 2.23%;
+    top: 5.85%;
+    bottom: 13.66%;
+
+    height: 165px;
+    width: 515px;
+    left: 12px;
+    top: 12px;
+    border-radius: 40px;
+
+    border: 3px dashed #FFB489;
 }
