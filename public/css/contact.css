@@ -28,13 +28,15 @@
     top: 347px;
 
     background: url(/images/contactpage/Alex_AR_Lay_Do.png);
+
+    z-index: 1;
 }
 
 .contact-content{
     position: absolute;
     width: 1520px;
     height: 647px;
-    left: 286px;
+    left: 326px;
     top: 293px;
 }
 
