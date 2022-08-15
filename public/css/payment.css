@@ -1,0 +1,597 @@
+.payment-header{
+    position: absolute;
+    width: 524px;
+    height: 100px;
+    left: 708px;
+    top: 144px;
+
+    /* Header */
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    /* identical to box height, or 104% */
+
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.payment-content{
+    position: absolute;
+    width: 1520px;
+    height: 677px;
+    left: 201px;
+    top: 293px;
+}
+
+.payment-bkgrd-1{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 0%;
+    bottom: 2.95%;
+
+    height: 657px;
+    width: 950.0000610351562px;
+}
+
+.payment-layer-1{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 2.36%;
+    bottom: 2.95%;
+
+    height: 641px;
+    width: 950.0000610351562px;
+    left: 0px;
+    top: 16px;
+    border-radius: 50px;
+    
+    background: #FFCA7B;
+}
+
+.payment-layer-2{
+    position: absolute;
+    left: 0%;
+    right: 37.5%;
+    top: 0%;
+    bottom: 5.32%;
+
+    height: 641px;
+    width: 950.0000610351562px;
+    left: 0px;
+    top: 0px;
+    border-radius: 50px;
+    
+    background: #FDE8B3;
+}
+
+.payment-layer-3{
+    position: absolute;
+    left: 0.79%;
+    right: 38.29%;
+    top: 1.77%;
+    bottom: 7.09%;
+
+    height: 617px;
+    width: 926px;
+    left: 12px;
+    top: 12px;
+    border-radius: 50px;
+
+    background: #FFF6D4;
+}
+
+.payment-layer-4{
+    position: absolute;
+    left: 0.79%;
+    right: 38.29%;
+    top: 1.77%;
+    bottom: 7.09%;
+
+    height: 617px;
+    width: 926.0001831054688px;
+    left: 12px;
+    top: 12px;
+    border-radius: 50px;
+
+    border: 3px dashed #FFB489;
+}
+
+.payment-bkgrd-2{
+    position: absolute;
+    left: 64.47%;
+    right: 0.07%;
+    top: 0%;
+    bottom: 2.95%;
+
+    height: 657px;
+    width: 539.0003051757812px;
+    left: 0px;
+}
+
+.payment-layer-5{
+    position: absolute;
+    left: 64.47%;
+    right: 0.07%;
+    top: 1.92%;
+    bottom: 2.95%;
+
+    height: 644px;
+    width: 539.0001220703125px;
+    left: 980px;
+    top: 13px;
+    border-radius: 50px;
+
+    background: #FFCA7B;
+}
+
+.payment-layer-6{
+    position: absolute;
+    left: 64.47%;
+    right: 0.07%;
+    top: 0%;
+    bottom: 5.32%;
+
+    height: 641px;
+    width: 539px;
+    left: 980.00048828125px;
+    top: 0px;
+    border-radius: 50px;
+
+    background: #FDE8B3;
+}
+
+.payment-layer-7{
+    position: absolute;
+    left: 65.26%;
+    right: 0.86%;
+    top: 1.77%;
+    bottom: 7.09%;
+
+    height: 617.0181884765625px;
+    width: 515px;
+    left: 992.00048828125px;
+    top: 11.9818115234375px;
+    border-radius: 50px;
+
+    background: #FFF6D4;
+}
+
+.payment-layer-8{
+    position: absolute;
+    left: 65.26%;
+    right: 0.86%;
+    top: 1.77%;
+    bottom: 7.09%;
+    
+    height: 617px;
+    width: 515px;
+    left: 992.00048828125px;
+    top: 12px;
+    border-radius: 50px;
+    
+    border: 3px dashed #FFB489;
+}
+
+.payment-vector{
+    position: absolute;
+    left: 59.67%;
+    right: 31.05%;
+    top: 0%;
+    bottom: 5.45%;
+}
+
+.pay-button{
+    position: absolute;
+    left: 70.2%;
+    right: 5.59%;
+    top: 78.14%;
+    bottom: 11.82%;
+
+    /* button */
+
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+
+    height: 68px;
+    width: 368px;
+
+
+    color:#ecf0f1;
+    text-decoration:none;
+    border-radius: 15px;
+    border: none;
+    background:#FF000A;
+    text-align:center;
+    padding:16px 18px 14px;
+
+    /*-webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    transition: all 0.1s;*/
+
+    -webkit-box-shadow: 0px 6px 0px #BD000B;
+    -moz-box-shadow: 0px 6px 0px #BD000B;
+    box-shadow: 0px 6px 0px #BD000B;
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #FFFFFF;
+
+}
+
+.pay-button:active{
+    -webkit-box-shadow: 0px 2px 0px #BD000B;
+    -moz-box-shadow: 0px 2px 0px #BD000B;
+    box-shadow: 0px 2px 0px #BD000B;
+    position:relative;
+    top: 530px;
+}
+
+.payment-money, .payment-date, .payment-name, .payment-tele, .payment-email, .payment-card, .payment-cardname, .payment-expired, .payment-code{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+    /* Text */
+
+    color: #23221F;
+}
+
+.payment-money input, .payment-date input, .payment-name input, .payment-tele input, .payment-email input, .payment-card input, .payment-cardname input, .payment-code input{
+
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border: none;
+
+    padding: 8px 0px 8px 12px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+
+    /* Text */
+
+    color: #23221F;
+}
+
+.payment-money{
+    position: absolute;
+    width: 233px;
+    height: 94px;
+    left: 129px;
+    top: 81px;
+}
+
+.payment-money input{
+    width: 233px;
+    height: 56px;
+}
+
+.payment-date{
+    position: absolute;
+    width: 234px;
+    height: 94px;
+    left: 613px;
+    top: 81px;
+}
+
+.payment-date input{
+    width: 234px;
+    height: 56px;
+}
+
+.payment-name{
+    position: absolute;
+    width: 391px;
+    height: 94px;
+    left: 129px;
+    top: 191px;
+}
+
+.payment-name input{
+    width: 391px;
+    height: 56px;
+}
+
+.payment-tele{
+    position: absolute;
+    width: 233px;
+    height: 94px;
+    left: 129px;
+    top: 301px;
+}
+
+.payment-tele input{
+    width: 233px;
+    height: 56px;
+}
+
+.payment-email{
+    position: absolute;
+    width: 391px;
+    height: 94px;
+    left: 129px;
+    top: 411px;
+}
+
+.payment-email input{
+    width: 391px;
+    height: 56px;
+}
+
+.payment-amount{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    position: absolute;
+    width: 123px;
+    height: 94px;
+    left: 426px;
+    top: 81px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+    /* Text */
+
+    color: #23221F;
+}
+
+.payment-amount input{
+    width: 94px;
+    height: 56px;
+
+    /* W */
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border: none;
+
+    padding: 0px 0px 0px 12px;
+}
+
+.payment-amount div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 123px;
+    height: 56px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+
+    /* Text */
+
+    color: #23221F;
+}
+
+.payment-content-2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    position: absolute;
+    width: 411px;
+    height: 424px;
+    left: 1044px;
+    top: 81px;
+}
+
+.payment-card, .payment-cardname, .payment-code{
+    width: 411px;
+    height: 94px;
+}
+
+.payment-expired{
+    width: 491px;
+    min-height: 94px;
+}
+
+.payment-card input, .payment-cardname input{
+    width: 411px;
+    height: 56px;
+}
+
+.payment-code input{
+    width: 113px;
+    height: 56px;
+}
+
+.payment-expired input{
+    width: 342px;
+    height: 56px;
+
+    background: #FFFFFF;
+    /* inner shadow */
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    border: none;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+
+    /* Text */
+
+    color: #23221F;
+}
+
+.payment-calendar{
+    position: absolute;
+
+    left: 1408px;
+    top: 335px;
+    border-radius: 0px;
+
+    width: 53px;
+    height: 56px;
+
+    color:#ecf0f1;
+    text-decoration:none;
+    border-radius: 10px;
+    border: none;
+    background:#FFDE32;
+    text-align:center;
+    padding:16px 18px 14px;
+
+    /*-webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    transition: all 0.1s;*/
+
+    -webkit-box-shadow: 0px 6px 0px #FFD27B;
+    -moz-box-shadow: 0px 6px 0px #F9B842;
+    box-shadow: 0px 6px 0px linear-gradient(90deg, rgba(255,190,92,1) 0%, rgba(255,255,255,1) 50%, rgba(255,190,92,1) 100%);
+}
+
+.payment-calendar:active{
+    -webkit-box-shadow: 0px 2px 0px #FFD27B;
+    -moz-box-shadow: 0px 2px 0px #F9B842;
+    box-shadow: 0px 2px 0px linear-gradient(90deg, rgba(255,190,92,1) 0%, rgba(255,255,255,1) 50%, rgba(255,190,92,1) 100%);
+    position:relative;
+    top: 338px;
+}
+
+.payment-obj-1{
+    position: absolute;
+    width: 388px;
+    height: 80px;
+    left: 330px;
+    top: 255px;
+
+    /* button */
+
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+}
+
+.payment-obj-1 img{
+    position: absolute;
+    left: 17.19%;
+    right: 62.6%;
+    top: 25.46%;
+    bottom: 67.13%;    
+}
+
+.payment-obj-1 p{
+    position: absolute;
+    left: 25.07%;
+    right: -34.38%;
+    top: 6.57%;
+    bottom: 69.63%;
+
+    /* Koni / 28 */
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.payment-obj-2{
+    position: absolute;
+    width: 388px;
+    height: 80px;
+    left: 1007px;
+    top: 255px;
+
+    /* button */
+
+    filter: drop-shadow(0px 4px 8px rgba(165, 15, 15, 0.45));
+}
+
+.payment-obj-2 img{
+    position: absolute;
+    left: 65.47%;
+    right: 14.32%;
+    top: 25.46%;
+    bottom: 67.13%;
+}
+
+.payment-obj-2 p{
+    position: absolute;
+    left: 71.93%;
+    right: -115.73%;
+    top: 6.48%;
+    bottom: 69.72%;
+
+    /* Koni / 28 */
+
+    font-family: iCielKoni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 41px;
+
+    /* W */
+
+    color: #FFFFFF;
+}
+
+.payment-img{
+    position: absolute;
+    width: 310px;
+    height: 594px;
+    left: 0px;
+    top: 347px;
+}

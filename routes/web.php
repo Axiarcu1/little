@@ -25,9 +25,9 @@ Route::get('/detailed', function () {
     return view('pages.detailed');
 })->name('detailed');
 
-Route::get('/checkout', function () {
-    return view('checkout');
-})->name('checkout');
+Route::get('/payment', function () {
+    return view('pages.payment');
+})->name('payment');
 
 Route::get('/contact', function () {
     return view('pages.contact');

@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/event.css">
     <link rel="stylesheet" href="css/detailed.css">
     <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/payment.css">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

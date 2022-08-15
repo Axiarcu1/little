@@ -87,7 +87,9 @@
                 <button type="button" class="calendar-button">
                   <img src="images/homepage/calendar.png" alt="" class="button-icon-1">
                 </button>
-                <button type="button" class="datve-button">Đặt vé</button>
+                <a href="/payment">
+                  <button type="button" class="datve-button">Đặt vé</button>
+                </a>
             </form>
           </div>
           
